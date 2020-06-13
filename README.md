@@ -6,5 +6,4 @@ Made this application to try my hands out on typescript with react-native. You c
 Future scope: 
 1) Removing the task.
 2) Writing test cases using react-native-testing-library.
-3) Imporving the UI.
-4) Setting up reminder.
+3) Setting up reminder.
