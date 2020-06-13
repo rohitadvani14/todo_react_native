@@ -1,5 +1,6 @@
 # todo_react_native
 Simple ToDo application in react native using typescript.
+Check the code in src folder.
 
 Made this application to try my hands out on typescript with react-native. You can add a task and mark it complete/in-complete.
 
